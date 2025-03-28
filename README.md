@@ -1,40 +1,43 @@
-<p align="center">
-  <img src="src/assets/imgs/logo.png" alt="Logo da aplicação" width="400">
-</p>
+# **Treinando Modelos de Machine Learning**
 
-# **Sorveteria Ilha do Sol 🍦**
-*Descubra como temperatura e sorvete andam de mãos dadas!*
+Bem-vindo ao repositório de treinamento de modelos de Machine Learning! Este repositório contém projetos desenvolvidos para explorar e aplicar técnicas de aprendizado de máquina em diferentes contextos. Cada projeto possui uma descrição detalhada disponível na pasta `readme`.
 
 ---
 
-## **Descrição do Projeto** 📝
-O objetivo deste projeto é desenvolver um modelo de regressão preditiva para analisar a relação entre **vendas de sorvete** e **temperatura**. A ideia é prever padrões e identificar como variáveis externas afetam as vendas.
+## **Índice**
+1. [Descrição Geral](#descrição-geral)
+2. [Estrutura do Repositório](#estrutura-do-repositório)
+3. [Como Usar](#como-usar)
+4. [Projetos Disponíveis](#projetos-disponíveis)
+5. [Requisitos](#requisitos)
+6. [Contato](#contato)
 
 ---
 
-## **Visualizações Principais** 📊
-Abaixo estão algumas representações visuais do projeto:
-
-<p align="center">
-  <img src="src/assets/imgs/image.png" alt="Gráfico 1" width="300">
-  <img src="src/assets/imgs/image-1.png" alt="Gráfico 2" width="300">
-</p>
-<p align="center">
-  <img src="src/assets/imgs/image-2.png" alt="Gráfico 3" width="300">
-  <img src="src/assets/imgs/image-3.png" alt="Gráfico 4" width="300">
-</p>
-<p align="center">
-  <img src="src/assets/imgs/image-4.png" alt="Gráfico 5" width="300">
-  <img src="src/assets/imgs/image-5.png" alt="Gráfico 6" width="300">
-</p>
+## **Descrição Geral**
+Este repositório reúne projetos que visam o treinamento e análise de diferentes modelos de Machine Learning, com o objetivo de entender conceitos fundamentais.
 
 ---
 
-## **Métricas Principais** 📈
-Aqui estão as métricas mais importantes do projeto:
+## **Estrutura do Repositório**
+```
+📦 treinando_modelo_de_machine_learning
+ ┣ 📂 readme
+ ┃ ┣ 📜 projetoum.md
+ ┃ ┣ 📜 projetodois.md
+ ┣ 📜 README.md
+ ┣ 📂 inputs
+```
 
-- **Vendas Diárias Médias:** 190 unidades
-- **Temperatura Média:** 31°C
-- **Correlação Temperatura-Vendas:** 0,92
+---
 
-> Com base nos dados, existe uma forte correlação positiva entre o aumento da temperatura e o aumento das vendas. 🌞🍧
+## **Como Usar**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/nadiacastr0/treinando_modelo_de_machine_learning.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd treinando_modelo_de_machine_learning
+   ```
+3. Consulte os arquivos de descrição dos projetos na pasta `readme`.
